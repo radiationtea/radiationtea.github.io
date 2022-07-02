@@ -43,21 +43,3 @@ RRT, Radiation Red Tea 팀은 경북소프트웨어고 3C 인증제 신청 관�
 </table>
 
 3C 인증제 사이트는 [https://3c.gbsw.hs.kr](https://3c.gbsw.hs.kr)에서 확인해보실 수 있습니다.
-
-# 사용한 기술 목록
-## 프론트엔드
-- Adobe XD
-- React.js
-- SCSS
-- React Router DOM
-
-## 백엔드
-- Nest.JS
-- ASP.NET Core
-
-## DB & 인프라
-- MariaDB
-- AWS CloudFront, ECS, EC2, S3, ALB
-
-
-... 작성중
