@@ -29,6 +29,21 @@ RRT, Radiation Red Tea 팀은 경북소프트웨어고 3C 인증제 신청 관�
 
 또한 전문가 수준의 관리 시스템을 통해 교사의 업무량을 줄여줄 것입니다.
 
+## 실행 주소
+<table>
+<tr>
+<th>
+
+<img src="https://cdn.discordapp.com/attachments/530043751901429762/992819557955817613/unknown.png" />
+</th>
+<th>
+<img src="https://cdn.discordapp.com/attachments/530043751901429762/992820749922480219/unknown.png" />
+</th>
+</tr>
+</table>
+
+3C 인증제 사이트는 [https://3c.gbsw.hs.kr](https://3c.gbsw.hs.kr)에서 확인해보실 수 있습니다.
+
 # 사용한 기술 목록
 ## 프론트엔드
 - Adobe XD
